@@ -39,3 +39,5 @@ AS
 | 16 | YU |
 | 17 | XR |
 | 18 | YD |
+
+https://wiki.odroid.com/odroid-xu4/application_note/gpio/rpi.gpio 
