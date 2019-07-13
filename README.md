@@ -35,6 +35,8 @@ Need at least 4 IOs from your MCU
 17 =
 18 =
 ```
+|PORT|DETALLES|
+|---|---|
 | 1 | GND |
 | 2 | RESET |
 | 3 | SCL |
