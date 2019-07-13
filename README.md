@@ -46,4 +46,6 @@ https://wiki.odroid.com/odroid-xu4/application_note/gpio/rpi.gpio
 
 ```
 git clone https://github.com/joshua-yang/RPi.GPIO-Odroid
+cd RPi.GPIO-Odroid
+sudo python setup.py build install
 ```
