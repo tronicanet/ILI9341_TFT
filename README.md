@@ -35,3 +35,21 @@ Need at least 4 IOs from your MCU
 17 =
 18 =
 ```
+| 1 | GND |
+| 2 | RESET |
+| 3 | SCL |
+| 4 | D/C |
+| 5 | CS |
+| 6 | SDA |
+| 7 | SD0 |
+| 8 | GND |
+| 9 | VCC |
+| 10 | LEDA |
+| 11 | LEDK1 |
+| 12 | LEDK2 |
+| 13 | LEDK3 |
+| 14 | LEDK4 |
+| 15 | XL |
+| 16 | YU |
+| 17 | XR |
+| 18 | YD |
