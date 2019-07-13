@@ -15,26 +15,6 @@ Need at least 4 IOs from your MCU
   <img align="left" src="https://github.com/tronicanet/ILI9341_TFT/blob/master/img/pin.jpg">
 </p>
 
-```
-1 =
-2 =
-3 =
-4 =
-5 =
-6 =
-7 =
-8 =
-9 =
-10 =
-11 =
-12 =
-13 =
-14 =
-15 = 
-16 =
-17 =
-18 =
-```
 |PORT|DETALLES|
 |---|---|
 | 1 | GND |
