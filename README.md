@@ -41,3 +41,9 @@ AS
 | 18 | YD |
 
 https://wiki.odroid.com/odroid-xu4/application_note/gpio/rpi.gpio 
+
+## RPi.GPIO for ODROID
+
+```
+git clone https://github.com/joshua-yang/RPi.GPIO-Odroid
+```
