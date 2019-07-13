@@ -11,5 +11,5 @@ Need at least 4 IOs from your MCU
 </p>
 
 <p align="center">
-  <img src="https://github.com/tronicanet/ILI9341_TFT/blob/master/img/pin.jpg">
+  <img align="left" src="https://github.com/tronicanet/ILI9341_TFT/blob/master/img/pin.jpg">
 </p>
