@@ -6,7 +6,7 @@ use with 3.3V
 Without touch
 Need at least 4 IOs from your MCU
 ```
-### TFT
+## TFT
 <p align="center">
   <img width="800" height="500" src="https://github.com/tronicanet/ILI9341_TFT/blob/master/img/tft.jpg">
 </p>
