@@ -49,3 +49,8 @@ git clone https://github.com/joshua-yang/RPi.GPIO-Odroid
 cd RPi.GPIO-Odroid
 sudo python setup.py build install
 ```
+
+
+<p align="center">
+  <img align="left" src="https://github.com/tronicanet/ILI9341_TFT/blob/master/img/ILI9341%20-%2000.PNG">
+</p>
